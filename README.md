@@ -1,7 +1,7 @@
 # Laravel File Sharing App
 
 This project is based on the laravel-starter-kit and uses React, Vite, and Inertia.js. This test application implements secure user authentication and functionality for uploading and sharing files through one-time password-protected download links.
-The app combines spa and ssr thanks to Inertiajs.
+The app combines SPA and SSR thanks to Insertia.js.
 
 ## Technologies
 
@@ -75,7 +75,7 @@ php artisan migrate
 
 ## Known Issues
 
-- Since there is only one role in the system, the policy are rather dummy.
+- Since there is only one role in the system, the policy is rather dummy.
 - [ImageGalery](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/resources/js/components/image-gallery.tsx) is of type h-[calc(100vh-6rem)], which depends on the other component
 
 
