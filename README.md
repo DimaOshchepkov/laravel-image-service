@@ -9,7 +9,7 @@ The app combines spa and ssr thanks to Inertiajs.
 - React + Vite (frontend)
 - Inertia.js (frontend-backend bridge)
 - Sanctum (authentication)
-- Policies (since one user, the policies are rather bogus)
+- Policies (since one user, the policy are rather dummy)
 - PostgreSQL
 
 ## Core Features
