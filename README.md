@@ -9,7 +9,7 @@ The app combines spa and ssr thanks to Inertiajs.
 - React + Vite (frontend)
 - Inertia.js (frontend-backend bridge)
 - Sanctum (authentication)
-- Policies (since one user, the policy are rather dummy)
+- Policies 
 - PostgreSQL
 
 ## Core Features
@@ -75,7 +75,7 @@ php artisan migrate
 
 ## Known Issues
 
-- Since there is only one role in the system, the politicians are rather fictitious.
+- Since there is only one role in the system, the policy are rather dummy.
 - [ImageGalery](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/resources/js/components/image-gallery.tsx) is of type h-[calc(100vh-6rem)], which depends on the other component
 
 
