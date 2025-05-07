@@ -69,9 +69,12 @@ php artisan migrate
 ```
 
 ## Screenshots
-![main page](https://github.com/user-attachments/assets/cd80f7e9-96d9-41d9-ab5a-da328908931e)
-![dashbord](https://github.com/user-attachments/assets/5be7830b-a21f-4d1e-a697-e6cddc6d9298)
-![list links](https://github.com/user-attachments/assets/12be626b-c15c-4d67-a7c5-71dff7f2f1ef)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/cd80f7e9-96d9-41d9-ab5a-da328908931e" />
+    <img src="https://github.com/user-attachments/assets/5be7830b-a21f-4d1e-a697-e6cddc6d9298" />
+    <img src="https://github.com/user-attachments/assets/12be626b-c15c-4d67-a7c5-71dff7f2f1ef" />
+</p>
+
 
 ## Known Issues
 
