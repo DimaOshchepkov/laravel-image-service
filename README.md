@@ -39,6 +39,7 @@ The project uses modern React libraries and UI patterns:
 
 - [FileTable](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/resources/js/components/file-table.tsx)
 - [UserFilesController](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/app/Http/Controllers/UserFilesController.php)
+- [DashboardController](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/app/Http/Controllers/DashboardController.php)
 
 
 ## Quick Start
