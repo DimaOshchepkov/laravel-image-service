@@ -77,6 +77,7 @@ php artisan migrate
 
 - Since there is only one role in the system, the policy is rather dummy.
 - [ImageGalery](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/resources/js/components/image-gallery.tsx) is of type h-[calc(100vh-6rem)], which depends on the other component
+- [FileTable](https://github.com/DimaOshchepkov/laravel-image-service/blob/main/resources/js/components/file-table.tsx) failed to move Table.Row and its contents into a separate component.
 
 
 
